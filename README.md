@@ -1,3 +1,3 @@
-install node
-npm install
-npm run start
+`install node`
+`npm install`
+`npm run start`
